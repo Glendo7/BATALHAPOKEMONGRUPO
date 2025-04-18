@@ -1,15 +1,38 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Batalha Pokémon</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-  Hello world
+  <main>
+    <h1>Batalha Pokémon</h1>
+
+    <section id="chefe-area">
+      <h2>Chefe: Charizard</h2>
+      <img id="chefe-img" src="" alt="Imagem do Chefe">
+      <p id="chefe-info"></p>
+    </section>
+
+    <section id="fila-area">
+      <h2>Fila de Desafiantes</h2>
+      <ul id="fila-lista"></ul>
+    </section>
+
+    <button id="batalhar-btn">Batalhar</button>
+
+    <section id="resultado-batalha"></section>
+
+    <section id="ranking-area">
+      <h2>Ranking de Vencedores</h2>
+      <ul id="ranking-lista"></ul>
+    </section>
+  </main>
+
   <script src="script.js"></script>
 </body>
 
