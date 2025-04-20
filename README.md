@@ -22,7 +22,7 @@ Entrega da Atividade
 ● Produtos entregues:
 1. Link para o repositório no GitHub: https://github.com/Glendo7/BATALHAPOKEMONGRUPO.git 
 2. Link para demonstração (GitHub Pages) https://glendo7.github.io/BATALHAPOKEMONGRUPO/ 
-3. Pequeno vídeo, devendo aparecer pelo menos um dos membros do grupo, explicando o funcionamento
+3. Pequeno vídeo Explicando o funcionamento: https://drive.google.com/file/d/1hhYG0wETEXSG6VI4GTPPCuD5MovCngAW/view?usp=drive_link
 
 Batalha Pokémon com Fila de Desafiantes (DEMAIS POLOS)
 Objetivo
